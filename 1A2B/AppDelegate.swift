@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  1A2B
 //
-//  Created by 潘立婷 on 2022/7/14.
+//  Created by stopshien on 2022/7/14.
 //
 
 import UIKit
